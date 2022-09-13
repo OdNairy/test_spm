@@ -6,5 +6,5 @@ public struct Fingertips {
 }
 
 public func say() -> String {
-    return "Version 2"
+    return "Version 4"
 }
